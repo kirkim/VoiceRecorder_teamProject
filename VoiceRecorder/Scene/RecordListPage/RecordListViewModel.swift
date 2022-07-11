@@ -74,7 +74,7 @@ class RecordListViewModel {
         recordListUserDefaults.updateFavoriteState(fileInfo: recordDatas[indexPath.row].fileInfo)
     }
     
-    func sortButtonTapped(beforeState: RecordListSortState, afterState: RecordListSortState, completion: @escaping () -> ()) {
+    func sortButtonTapped(afterState: RecordListSortState, completion: @escaping () -> ()) {
         self.recordDatas = recordListUserDefaults.getData()
         switch afterState {
         case .basic:

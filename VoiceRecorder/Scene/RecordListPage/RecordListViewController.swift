@@ -173,7 +173,7 @@ extension RecordListViewController {
 //MARK: - 셀정렬버튼 이벤트 메서드
 extension RecordListViewController: RecordListSortBarDelegate {
     func sortButtonTapped(sortState: RecordListSortState) {
-        viewModel.sortButtonTapped(beforeState: sortBar.sortState, afterState: sortState, completion: { [weak self] in
+        viewModel.sortButtonTapped(afterState: sortState, completion: { [weak self] in
             self?.tableView.reloadData()
         })
     }

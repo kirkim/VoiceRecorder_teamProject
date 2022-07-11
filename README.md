@@ -12,6 +12,9 @@
 |<a href="https://github.com/kirkim"><img src="https://avatars.githubusercontent.com/u/72755750?v=4" width="120px"/></a>|<a href="https://github.com/zoa0945"><img src="https://avatars.githubusercontent.com/u/51810980?v=4" width="120px"/></a>|<a href="https://github.com/trumanfromkorea"><img src="https://avatars.githubusercontent.com/u/55919701?v=4" width="120px"/></a>|
 |네트워크, 모델관리|음성녹음, Waveform|파일재생, 음성변조|
 
+## 개인 개발 일지
+👉  <a href="https://inquisitive-mandrill-30f.notion.site/1-Voice-Recoder-TIL-5f029d27f5c74841a5be98f8c5e725a4">노션 - 개발일지 bt kirkim</a>
+
 ## 📱 실행 화면 & 역할
 ![2022-07-09_16 08 02](https://user-images.githubusercontent.com/55919701/178095804-ba8f1980-6e9f-4d49-a2cf-3a4d3d799b53.png)
 
