@@ -1,5 +1,5 @@
 
-# 🍏 원티드 iOS 프리온보딩 - VoiceRecorder App
+# 🍏 원티드 iOS 프리온보딩(with 야곰아카데미) - VoiceRecorder App
 
 원티드 iOS 프리온보딩 코스를 진행하며 구현한 음성메모 앱 입니다.
 
